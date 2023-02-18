@@ -1,0 +1,62 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Julius Sans One', sans-serif;
+    background-color: var(--color-light);
+    color: var(--color-dark);
+}
+
+:root {
+    --color-light: #fcfcec;
+    --color-dark: #340c44;
+    --color-lilac: #7c647c;
+    --color-beige: #ccccac ;
+}
+
+header {
+    position: fixed;
+    z-index: 1;
+}
+
+.mycolor-header {
+    background-color: var(--color-dark);
+    color: var(--color-light);
+}
+
+.btn-mycolor {
+    background-color: var(--color-lilac);
+    color: var(--color-light);
+}
+
+.mycolor-card {
+    background-color: var(--color-beige);
+}
+
+
+.container-fluid a {
+    color: var(--color-light);
+}
+
+.carousel-item img {
+    width: 600px;
+    max-height: 370px;
+    border-radius: 10px;
+}
+
+.chaos {
+    width: 400px;
+}
+
+.accordion-button {
+    font-size: 23px;
+    font-weight: 600;
+}
+
+.icon img {
+    border-radius: 50%;
+    width: 200px;
+}
