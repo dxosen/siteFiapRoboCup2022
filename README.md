@@ -3,7 +3,7 @@
 
 <br>
 
-  Eu junto a minha equipe fizemos um site para o projeto da faculdade. 
+  My team and I created a website for our college project.
   <a href="https://www.fiap.com.br/next/" target="_blank"  >(FIAP NEXT ROBOCUP 2022) </a>
   
 <br>  
